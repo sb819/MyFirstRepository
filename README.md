@@ -9,7 +9,7 @@
 ## 2주차과제
 
 
-<img width ="500" height = "" src= ".//png/2주차-1.gif">
+<img width ="500" height = "" src= "./png/2주차-1.gif">
 
 
 

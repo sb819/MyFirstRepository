@@ -9,8 +9,8 @@
 ## 2주차과제
 
 
+<img width ="500" height = "" src= "./png/2주차-1.GIF">
 <img width ="500" height = "" src= "./png/2주차-2.GIF">
-
 
 
 ## 3주차과제

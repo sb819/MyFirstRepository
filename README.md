@@ -3,13 +3,13 @@
 ## 1주차과제
 
 
-<img width ="1000" height = "" src= "./png/cap2.png">
+<img width ="500" height = "" src= "./png/cap2.png">
 
 
 ## 2주차과제
 
 
-<img width ="1000" height = "" src= "./png/2주차-1.gif">
+<img width ="500" height = "" src= "./png/2주차-1.gif">
 
 
 ## 3주차과제

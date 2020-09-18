@@ -1,4 +1,17 @@
-# MyFirstRepository
-Hello My name is eunkyo
+# 19173002 김은교
 
-<img width ="" height = "" src= "./png/cap2.png">
+## 1주차과제
+
+
+<img width ="1000" height = "" src= "./png/cap2.png">
+
+
+## 2주차과제
+
+
+<img width ="1000" height = "" src= "./png/2주차-1.gif">
+
+
+## 3주차과제
+
+## 4주차과제

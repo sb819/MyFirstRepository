@@ -44,5 +44,5 @@
 <img width ="500" height = "" src= "./png/project4[3].png">
 
 ## 9주차과제
-<img width ="500" height = "" src= "./png/넓이.GIF">
-<img width ="500" height = "" src= "./png/높이.GIF">
+<img width ="500" height = "" src= "./png/9주차1.GIF">
+<img width ="500" height = "" src= "./png/9주차2.GIF">

@@ -48,3 +48,4 @@
 <img width ="500" height = "" src= "./png/9주차2.GIF">
 
 ## 10주차 
+<img width ="500" height = "" src= "./png/10주차.GIF">
